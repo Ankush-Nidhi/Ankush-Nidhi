@@ -1,30 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yatharth Sharma 🌀 from India 🇮🇳</h1>
-<h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
+<h1 align="center">Hi 👋, I'm Ankush Nidhi 🌀 from India 🇮🇳</h1>
+<h3 align="center">The DevOps | security Guy who ♥ automating stuff</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/yatharth7" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
+<a href="https://www.linkedin.com/in/ankush-nidhi-a6b8b81a3/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="Ankush-nidhi" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/8779883/yatharth7" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="yatharth7" width="22px" />
+<a href="https://www.facebook.com/ankuaxix?mibextid=JRoKGi" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="ankush-nidhi" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://fb.com/yatharth.sharma.31" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="yatharth.sharma.31" width="22px" />
-</a>
-  &nbsp;&nbsp;
-<a href="https://instagram.com/yatharth_sharma_7" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" />
-</a>
-  &nbsp;&nbsp;
-<a href="https://yatharthsharma.home.blog/" target="blank">
+<a href="https://medium.com/@ankushnidhi2001" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="yatharth_sharma_blogs" width="22px" />
 </a></p>
 
-![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
-
-🏢 I’m currently working in [Leegality](https://www.leegality.com/) as **Sr. DevOps Engineer**
 
 🌱 I’m currently working on **Standarizing Jenkins Pipelines using DSL**
 
@@ -34,7 +23,7 @@
 
 💬 Ask me about **DevOps Tools and Practices**
 
-📫 You can reach me at **yatharth0045@gmail.com**
+📫 You can reach me at **ankushnidhi2001@gmail.com**
 
 ⚡ Fun fact **We guys automate stuff**
 
