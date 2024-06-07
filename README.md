@@ -19,7 +19,7 @@
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
-📝 I regulary write articles on [Hashnode](https://lets-devops.hashnode.dev/)
+📝 I regulary write articles on [Hashnode](https://Ankushh.hashnode.dev/)
 
 💬 Ask me about **DevOps Tools and Practices**
 
@@ -29,19 +29,6 @@
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
-- 📦 Trying out GoLang
-
-- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Yatharth0045/terraform-quickstart)
-
-- 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](https://github.com/Yatharth0045/s3-cloudFront)
-
-- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/Yatharth0045/static)
-
-- 📦 CI of a python application using circleCI - [Github](https://github.com/Yatharth0045/docker-python-app)
-
-- 📦 Containerizing a ML MicroService and running it over Kubernetes - [Github](https://github.com/Yatharth0045/operationalize-ml-microservice-api)
-
-- 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/Yatharth0045/capstone-udacity)   
 
 ##### 🧾 Certifications I have Accomplished
 
