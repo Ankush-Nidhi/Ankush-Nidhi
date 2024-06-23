@@ -15,7 +15,7 @@
 </a></p>
 
 
-🌱 I’m currently working on **Standarizing Jenkins Pipelines using DSL**
+🌱 I’m currently Learning  **DevOps | SOC **
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
