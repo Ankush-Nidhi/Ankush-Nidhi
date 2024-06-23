@@ -15,7 +15,7 @@
 </a></p>
 
 
-🌱 I’m currently Learning  **DevOps | SOC **
+🌱 I’m currently Learning  **DevOps|SOC**
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
